@@ -3,7 +3,7 @@
 url_base="http://pegelonline.wsv.de/webservices/files/Wasserstand+Rohdaten"
 
 # get all data
-for station_name in OSTSEE/KIEL-HOLTENAU OSTSEE/LT+KIEL OSTSEE/GREIFSWALD-WIECK; do
+for station_name in OSTSEE/LT+KIEL OSTSEE/GREIFSWALD-WIECK OSTSEE/FLENSBURG; do
     mkdir -p data/baltic_sea_level/${station_name}
     for m in {01..02}; do 
         for d in {01..31}; do 
