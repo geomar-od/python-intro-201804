@@ -73,8 +73,7 @@ doing so:
   defaults when, e.g., compiling software that has nothing to do with your work
   in Python.
 
-#### Why don't we just `conda install` everything right after installing
-#### Miniconda?
+#### Why don't we just `conda install` everything right after installing Miniconda?
 
 Working with environments provides an easy way of choosing packages and even
 specific versions for different projects / tasks.  You might want to freeze the
