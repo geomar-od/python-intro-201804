@@ -20,6 +20,8 @@ On Windows, install Miniconda to a hard drive with at least a few GB of free
 space.  On Linux / MaxOS, the rest of this preparation guide will assume that
 you installed to `${HOME}/miniconda3/`.
 
+_**Note** that you should choose Python 3: [https://python3statement.org/](https://python3statement.org/#sections40-timeline)_
+
 ### 2. Set up the working environment
 
 _(This step will start / activate the root environment you installed in step 1
@@ -54,6 +56,12 @@ And start up Jupyterlab as a first test:
 ```bash
 jupyter lab
 ```
+
+> _**Note** that if Jupyter fails with a message "could not assign address", you need to explicitly choose the IP address for the jupyter server:_
+> 
+> ```bash
+> jupyter lab --ip=127.0.0.1
+> ```
 
 ### Why?
 
