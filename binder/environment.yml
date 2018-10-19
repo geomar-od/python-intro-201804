@@ -11,7 +11,7 @@ dependencies:
   - gsw
   - haversine
   - hdf5
-  - matplotlib
+  - matplotlib<3
   - netCDF4
   - numpy
   - pandas
