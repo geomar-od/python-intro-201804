@@ -92,3 +92,12 @@ recent versions.
 
 This video has a great intro to managing different working environments for
 different projects:  <https://www.youtube.com/watch?v=cY2NXB_Tqq0>
+
+
+## Credits
+
+This course was partly inspired by: [https://rabernat.github.io/research_computing/](https://rabernat.github.io/research_computing/)
+
+We downloaded sea-level data from: [PEGELONLINE](http://pegelonline.wsv.de)
+
+We use annual-mean data from the [Baltic Sea-Ice Ocean Model BSIOM](https://portal.geomar.de/metadata/modelExperiment/show/349235).
