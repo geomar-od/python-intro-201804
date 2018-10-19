@@ -6,7 +6,8 @@ dependencies:
   - python=3
   - basemap 
   - basemap-data-hires
-  - cartopy cf_units
+  - cartopy
+  - cf_units
   - cmocean
   - dask
   - gsw
