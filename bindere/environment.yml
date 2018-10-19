@@ -1,0 +1,27 @@
+name: py3_course
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3
+  - basemap 
+  - basemap-data-hires
+  - cartopy cf_units
+  - cmocean
+  - dask
+  - gsw
+  - haversine
+  - hdf5
+  - ipython
+  - jupyter
+  - jupyterlab
+  - line_profiler
+  - matplotlib
+  - memory_profiler
+  - netCDF4
+  - numpy
+  - pandas
+  - seaborn
+  - scipy
+  - seawater
+  - xarray
