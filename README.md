@@ -1,4 +1,4 @@
-# Python Intro 201804 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geomar-tm/python-intro-201804/master)
+# Python Intro 201804 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geomar-tm/python-intro-201804/v1.3.0)
 
 This course was held in April / May 2018.
 
