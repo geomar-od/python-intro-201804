@@ -1,4 +1,4 @@
-# Python Intro 201804 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geomar-tm/python-intro-201804/add-dask-labview)
+# Python Intro 201804 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/geomar-tm/python-intro-201804/add-dask-labview?urlpath=lab)
 
 This course was held in April / May 2018.
 
